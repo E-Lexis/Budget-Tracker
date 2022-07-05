@@ -23,8 +23,8 @@ THEN the deposits or expenses added while they were offline are added to their t
 ```
 
 ## Site Image
-![Example profile](https://i.imgur.com/eNK6Q6P.png)
+![Site image](https://i.imgur.com/eNK6Q6P.png)
 
 ## Deployed App
 
-The deployed version of the application can be found [here](https://drive.google.com/file/d/1xiztP11YVzNPL_u-qap71zafj6raO3rm/view).
+The deployed version of the application can be found [here](https://arcane-springs-45928.herokuapp.com/).
