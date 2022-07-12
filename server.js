@@ -21,6 +21,7 @@ mongoose.connect(MONGODB_URI, {
   useFindAndModify: false,
 });
 
+// routes
 app.use(require("./routes/api.js"));
 
 mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/budget", {
